@@ -82,6 +82,7 @@ For more information
 * http://wiki.apertium.org/wiki/Installation
 * http://wiki.apertium.org/wiki/apertium-kor
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+* https://wikis.swarthmore.edu/ling073/User:Dmin1/Final_project
 
 Help and support
 ===============================================================================
