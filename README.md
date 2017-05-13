@@ -2,13 +2,16 @@
 
 ## Do June Min
 
-** NOTE: Use the precompiled hangul.hfst, if your machine does not have  more than 12gb of RAM or Swap partition enabled. This it due to the large size of hangul.lexc(contains all legal hangul syllable blocks). **
+**NOTE: Use the precompiled hangul.hfst, if your machine does not have  more than 12gb of RAM or Swap partition enabled. This it due to the large size of hangul.lexc(contains all legal hangul syllable blocks).**
       
 For more information on the transducer, visit [here.](https://wikis.swarthmore.edu/ling073/User:Dmin1/Final_project)
 
 ## Quick Start Up Guide ##
+
 Run  *./autogen.sh*
+
 Run *make install*
+
 Run *echo 우리는 집에 간다." | apertium -d . kor-morph to test
 
 
