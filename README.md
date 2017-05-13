@@ -7,7 +7,9 @@
 For more information on the transducer, visit [here.](https://wikis.swarthmore.edu/ling073/User:Dmin1/Final_project)
 
 ## Quick Start Up Guide ##
-Run *./autogen.sh*
+Run  *./autogen.sh*
+Run *make install*
+Run *echo 우리는 집에 간다." | apertium -d . kor-morph to test
 
 
                             apertium-kor
