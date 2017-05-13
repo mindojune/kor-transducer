@@ -6,6 +6,9 @@
       
 For more information on the transducer, visit [here.](https://wikis.swarthmore.edu/ling073/User:Dmin1/Final_project)
 
+## Quick Start Up Guide ##
+Run *./autogen.sh*
+
 
                             apertium-kor
 ===============================================================================
