@@ -5,6 +5,8 @@ Do June Min
 NOTE: Use the precompiled hangul.hfst, if your machine does not have <12gb of RAM or Swap partition enabled.
       This it due to the large size of hangul.lexc(contains all legal hangul syllable blocks).
       
+For more information on the transducer, refer to https://wikis.swarthmore.edu/ling073/User:Dmin1/Final_project.
+      
 
                             apertium-kor
 ===============================================================================
