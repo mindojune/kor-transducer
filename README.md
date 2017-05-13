@@ -1,6 +1,6 @@
-Finite State Transducer for Korean
+#Finite State Transducer for Korean
 
-Do June Min
+##Do June Min
 
 NOTE: Use the precompiled hangul.hfst, if your machine does not have <12gb of RAM or Swap partition enabled.
       This it due to the large size of hangul.lexc(contains all legal hangul syllable blocks).
